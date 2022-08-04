@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Apex Practice",
+  "namespace": "",
+  "sfdcLoginUrl": "https://resourceful-impala-k3jxid-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
